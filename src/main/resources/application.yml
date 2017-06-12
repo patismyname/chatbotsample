@@ -1,0 +1,8 @@
+line.bot:
+  #channel-token: 'Put Your Channel Token Here.'
+  #channel-secret: 'Put Your Channel Secret Here.'
+  #handler.path: /callback
+  channel-token: 'IrePbVqF/xw6DzbPf5e4Q2hoCNBfuV8D5mdex4PzpFGSb9BBkiCYmm88aROLyAdZ/Lrg/9AMgSQjTQi639vo2ZDhdSOYzV/u1GEenP8SNBYP5d+AZIJF0cV2Qw0Ng7ABVLRFhdwmbz25jaUSPhKXpAdB04t89/1O/w1cDnyilFU='
+  channel-secret: '963c19b1a27f73fff82ebab76634c35e'
+  #handler.path: https://hidden-fjord-90063.herokuapp.com/
+  handler.path: /callback
